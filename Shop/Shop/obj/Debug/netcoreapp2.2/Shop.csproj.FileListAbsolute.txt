@@ -36,7 +36,6 @@ C:\Users\Egor\github\StasevichShop\Shop\Shop\bin\Debug\netcoreapp2.2\Shop.dll
 C:\Users\Egor\github\StasevichShop\Shop\Shop\bin\Debug\netcoreapp2.2\Shop.pdb
 C:\Users\Egor\github\StasevichShop\Shop\Shop\bin\Debug\netcoreapp2.2\Shop.Views.dll
 C:\Users\Egor\github\StasevichShop\Shop\Shop\bin\Debug\netcoreapp2.2\Shop.Views.pdb
-C:\Users\Egor\github\StasevichShop\Shop\Shop\obj\Debug\netcoreapp2.2\Shop.csprojAssemblyReference.cache
 C:\Users\Egor\github\StasevichShop\Shop\Shop\obj\Debug\netcoreapp2.2\Shop.csproj.CoreCompileInputs.cache
 C:\Users\Egor\github\StasevichShop\Shop\Shop\obj\Debug\netcoreapp2.2\Shop.RazorAssemblyInfo.cache
 C:\Users\Egor\github\StasevichShop\Shop\Shop\obj\Debug\netcoreapp2.2\Shop.RazorAssemblyInfo.cs
@@ -60,3 +59,4 @@ C:\Users\Egor\github\StasevichShop\Shop\Shop\obj\Debug\netcoreapp2.2\Shop.Views.
 C:\Users\Egor\github\StasevichShop\Shop\Shop\obj\Debug\netcoreapp2.2\Shop.dll
 C:\Users\Egor\github\StasevichShop\Shop\Shop\obj\Debug\netcoreapp2.2\Shop.pdb
 C:\Users\Egor\github\StasevichShop\Shop\Shop\obj\Debug\netcoreapp2.2\Shop.csproj.CopyComplete
+C:\Users\Egor\github\StasevichShop\Shop\Shop\obj\Debug\netcoreapp2.2\Shop.csprojAssemblyReference.cache
